@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taren07)
+
 <!--
 **taren07/taren07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
