@@ -12,10 +12,16 @@
 </div>
 
 
+<br />
+
+
 ## My Skill Set
 <table>
     <tr>
         <td valign="top" width="33%">
+
+
+
             ### Frontend
             <div align="center">
                 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
@@ -71,3 +77,48 @@
         </td>
     </tr>
 </table>
+
+<br />
+
+
+## Connect with me
+
+
+<br />
+
+
+## Github Stats
+<div align="center"><img
+        src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"
+        align="center" /></div>
+
+<br />
+
+
+## Recent Blog Posts
+
+
+<br />
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+
+<br />
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>
+
+
+<br />
+
+<div align="center">
+    <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
+            align="center" />
+    </a>
+</div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+</div>
