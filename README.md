@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm taren</h1>
-<h3 align="center">frontend developer from Japan</h3>
+<h3 align="center">Frontend Engineer from Japan</h3>
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
